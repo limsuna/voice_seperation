@@ -7,6 +7,6 @@ IDE : jupyter notebook
 사용 프레임워크 : Pytorch
 
 ref 
-(1) Speaker Diarization : https://github.com/jymsuper/SpeakerRecognition_tutorial \n
-(2) Speaker Seperation : https://github.com/mindslab-ai/voicefilter
+1. Speaker Diarization : https://github.com/jymsuper/SpeakerRecognition_tutorial
+2. Speaker Seperation : https://github.com/mindslab-ai/voicefilter
 
