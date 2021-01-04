@@ -8,7 +8,8 @@ IDE : jupyter notebook
 사용 프레임워크 : Pytorch
 
 Speaker Seperation Model - Google Cloud Platform을 이용하여 학습
-학습한 모델을 Google Colab을 이용해 
+
+학습한 모델을 Google Colab을 이용해 실행
 
 ref 
 1. Speaker Diarization : https://github.com/jymsuper/SpeakerRecognition_tutorial
